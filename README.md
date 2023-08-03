@@ -3,7 +3,7 @@ Digispark is an ATtiny85 based microcontroller development board come with USB i
 
 ## Watch Digispark In Action on My YouTube Channel :
 ### WiFi Hacking With BADUSB
-[![alt text](https://img.youtube.com/vi/cLWqbGjDmPk/maxresdefault.jpg)](https://youtu.be/X77ZUo82cyw)
+[![alt text](https://img.youtube.com/vi/cLWqbGjDmPk/maxresdefault.jpg)](https://youtu.be/cLWqbGjDmPk)
 
 ### Phone PIN Code Hacking With BADUSB
-[![alt text](https://img.youtube.com/vi/Pg1Yz_OMb08/maxresdefault.jpg)](https://youtu.be/X77ZUo82cyw)
+[![alt text](https://img.youtube.com/vi/Pg1Yz_OMb08/maxresdefault.jpg)](https://youtu.be/Pg1Yz_OMb08)
