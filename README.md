@@ -21,3 +21,7 @@ Digispark is an ATtiny85 based microcontroller development board come with USB i
 
 ### Phone PIN Code Hacking With BADUSB
 [![alt text](https://img.youtube.com/vi/Pg1Yz_OMb08/maxresdefault.jpg)](https://youtu.be/Pg1Yz_OMb08)
+
+
+## DISCLAIMER
+The source code given in this public repo is for educational use only and should only be used against your own networks and devices.Please check the legal regulations in your country before using it!
